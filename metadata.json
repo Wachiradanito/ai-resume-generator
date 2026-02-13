@@ -1,0 +1,5 @@
+{
+  "name": "EliteResume AI",
+  "description": "A high-end, ATS-optimized resume generator powered by Gemini 3 Flash. Transform minimal details into professional, achievement-focused CVs tailored for top-tier companies.",
+  "requestFramePermissions": []
+}
